@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/s0sinh4" target="blank"><img src="https://img.shields.io/twitter/follow/s0sinh4?logo=twitter&style=for-the-badge" alt="s0sinh4" /></a> </p>
 
-- 🌱 I’m currently learning **Red Team skills, C++**
+- 🌱 I’m currently learning **C, OS Internals**
 
 - 👨‍💻 All of my projects are available at [https://github.com/S0S4](https://github.com/S0S4)
 
