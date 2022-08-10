@@ -1,7 +1,7 @@
 <h1 align="center">Hey , I'm Sosa</h1>
 <h3 align="center">CyberSecurity Student</h3>
 
-<a href="https://gifyu.com/image/JllS"><img src="https://s9.gifyu.com/images/tumblr_mrl80v8fBn1r3ifxzo1_500.gif" alt="tumblr_mrl80v8fBn1r3ifxzo1_500.gif" border="0" /></a>
+<a href="https://s9.gifyu.com/images/tumblr_mrl80v8fBn1r3ifxzo1_500.gif" alt="tumblr_mrl80v8fBn1r3ifxzo1_500.gif" border="0" /></a>
 
 <p align="left"> <a href="https://twitter.com/s0sinh4" target="blank"><img src="https://img.shields.io/twitter/follow/s0sinh4?logo=twitter&style=for-the-badge" alt="s0sinh4" /></a> </p>
 
